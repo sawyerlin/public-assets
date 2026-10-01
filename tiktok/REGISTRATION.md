@@ -3,6 +3,7 @@
 - App name: Market Brief Studio
 - Category: Education (fallback: News)
 - Platform: Desktop (local CLI, localhost OAuth redirect)
+- Web/Desktop URL: https://sawyerlin.github.io/public-assets/tiktok/
 - Description: Publishes our own short educational videos explaining economic data and market moves to our TikTok account.
 - Terms of Service URL: https://sawyerlin.github.io/public-assets/tiktok/terms.html
 - Privacy Policy URL: https://sawyerlin.github.io/public-assets/tiktok/privacy.html
