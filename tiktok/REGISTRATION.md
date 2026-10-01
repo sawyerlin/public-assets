@@ -23,7 +23,8 @@ video.upload / video.publish (Content Posting API, Direct Post): after a video i
 No data from other users is collected; tokens are never shared.
 
 ## Status
-- [ ] Form saved (draft)
-- [ ] Sandbox + target user added
+- [x] Form saved (draft)
+- [x] Sandbox + target user added (remember: Apply changes; unaudited posts need a PRIVATE account)
+- [x] End-to-end sandbox post OK 2026-10-01 (PUBLISH_COMPLETE)
 - [ ] Demo video recorded
 - [ ] Submitted for audit
